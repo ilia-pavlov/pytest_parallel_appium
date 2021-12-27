@@ -13,7 +13,7 @@ def  test_access_code_input(udid, deviceName, systemPort):
         "platformVersion": "10",
         "deviceName": deviceName,
         "app": "os.path.XXXXXXXX",      """app location """
-        "appPackage": "com.clicktherapeuticsdev.alpha.ct101",
+        "appPackage": "XXXXXXXXXXXXXX",
         "autoAcceptAlerts": "true",
         "automationName": "UiAutomator2",
         "udid": udid,
